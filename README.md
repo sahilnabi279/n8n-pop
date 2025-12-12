@@ -1,11 +1,11 @@
 
 # n8n-pop
 
-cd ~/Desktop/n8n-popularity
-npm install
-python3 -m venv venv
-source venv/bin/activate
-pip install pytrends pandas
+cd ~/Desktop/n8n-popularity  
+npm install  
+python3 -m venv venv  
+source venv/bin/activate  
+pip install pytrends pandas  
 
 YOUTUBE_API_KEY=YOUR_API_KEY
 node collectors/youtube_api.js
