@@ -7,7 +7,7 @@ python3 -m venv venv
 source venv/bin/activate
 pip install pytrends pandas
 
-YOUTUBE_API_KEY=AIzaSyDatwuPsw11Pse7akDAQE2pIBupmL3ZVas
+YOUTUBE_API_KEY=YOUR_API_KEY
 node collectors/youtube_api.js
 node collectors/discourse_collector.js
 node scripts/merge_normalize.js
