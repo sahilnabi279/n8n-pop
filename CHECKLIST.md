@@ -1,0 +1,7 @@
+- [x] YouTube collector run
+- [x] Forum collector run
+- [x] Merge & normalize run
+- [x] API serving final file
+- [ ] (Optional) Google Trends collected
+- [x] README, API_SPEC, REPORT added
+- [x] Package ready for submission
